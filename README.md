@@ -3,6 +3,7 @@
 # מטלה 8 סעיפים ד+ו
 
 הוספתי לפרויקט מהשיעור תיקייה ובה שמתי את הסקריפטים החדשים שכתבתי
+
 https://github.com/Noa-Amit/game-task8-tilemap-pathfinding/tree/main/Assets/Scripts/randomMap
 
 עשיתי בפרויקט מספר שינויים:
@@ -12,6 +13,7 @@ https://github.com/Noa-Amit/game-task8-tilemap-pathfinding/tree/main/Assets/Scri
 3. הוספתי ל tilemap את הסקריפט החדש שכתבתי NewTilemapCaveGenerator
 
 הסקריפטים שכתבתי:
+
 1.NewMapTrigger- כשהשחקן נוגע בטריגר המשחק מתחיל מחדש, כלומר המפה משתנה והשחקן חוזר לנקודת ההתחלה
 https://github.com/Noa-Amit/game-task8-tilemap-pathfinding/blob/main/Assets/Scripts/randomMap/newMapTrigger.cs
 
