@@ -14,12 +14,12 @@ https://github.com/Noa-Amit/game-task8-tilemap-pathfinding/tree/main/Assets/Scri
 
 הסקריפטים שכתבתי:
 
-1.NewMapTrigger- כשהשחקן נוגע בטריגר המשחק מתחיל מחדש, כלומר המפה משתנה והשחקן חוזר לנקודת ההתחלה
+1. NewMapTrigger- כשהשחקן נוגע בטריגר המשחק מתחיל מחדש, כלומר המפה משתנה והשחקן חוזר לנקודת ההתחלה
 https://github.com/Noa-Amit/game-task8-tilemap-pathfinding/blob/main/Assets/Scripts/randomMap/newMapTrigger.cs
 
-2.NewTilemapCaveGeneration- יוצר אוביקט מערה שמתאחלת מפה, ואת המפה מציג למסך. במפה יש 3 סוגי אריחים
+2. NewTilemapCaveGeneration- יוצר אוביקט מערה שמתאחלת מפה, ואת המפה מציג למסך. במפה יש 3 סוגי אריחים
 https://github.com/Noa-Amit/game-task8-tilemap-pathfinding/blob/main/Assets/Scripts/randomMap/NewTilemapCaveGenerator.cs
 
-3.NewCaveGenerator-אוביקט שיוצר מפה רנדומלית חדשה. הקוד כתוב באופן כללי כך שמי שקורא לאוביקט מחליט מה יהיה מספר האריחים על המפה
+3. NewCaveGenerator-אוביקט שיוצר מפה רנדומלית חדשה. הקוד כתוב באופן כללי כך שמי שקורא לאוביקט מחליט מה יהיה מספר האריחים על המפה
 האוביקט מקבל מערך של מספרים שמייצגים את ההסתברות להופעת כל אריח על המפה ולפי הנתונים האלו מאתחל מפה
 https://github.com/Noa-Amit/game-task8-tilemap-pathfinding/blob/main/Assets/Scripts/randomMap/NewCaveGenerator.cs
